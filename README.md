@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FyNzU5YWEydGw1ZDc0bno2MTd1MGRvZHVwY3k4a3B2MTZqemh4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dvsjHZc6P3oozpp9I4/giphy.gif
+
 ###
 
 <h1 align="center">hey there 👋</h1>
